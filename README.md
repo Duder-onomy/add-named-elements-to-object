@@ -1,5 +1,7 @@
 # Add Named Elements To Object.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Duder-onomy/add-named-elements-to-object.svg)](https://greenkeeper.io/)
+
 So, I was using Riot.js for a while and my favorite feature was that any 'named' elements within your view would be accessible on the view scope by name.  This eliminated ALL DOM traversal in my project. As any element that I needed a handle on for any reason, I could just name the element then it would be available to me by reference.
 
 For example, if you had this in your template for a view:
